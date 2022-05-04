@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tieckby
 - 👀 I’m interested in web/mobile developement and Machine Learning.
-- 🌱 I’m currently learning web/mobile developement.
+- 🌱 I’m currently working on a web/mobile project.
 - 💞️ I’m looking to collaborate on a projet.
 - 📫 You can contact me on mail tiemokosogodogo97@gmail.com
 
